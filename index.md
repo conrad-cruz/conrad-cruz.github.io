@@ -26,30 +26,3 @@ Then, another database is created by scraping the website of [Counterstats.net](
 
 Finally, all the data is cleaned and a model is made to attempt to predict the outcome of a match based off of a match's champion selection using various machine learning tools. Ultimately the model was unable to be improved past 50% prediction accuracy. However, this could be a sign into how balanced the game could be at the moment; if a match could be predicted reliably based on champions picked alone, it may not be a sign of a balanced game! 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/conrad-cruz/conrad-cruz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
