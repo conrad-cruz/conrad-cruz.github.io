@@ -7,9 +7,12 @@
 
 Midterm School Project that analyzes trends of diamond ranked players in League of Legends. It explores statistical analysis with confidence intervals and data visualizations. Data was downloaded from Kaggle. 
 ## 
-### Markdown
+### League of Legends Champion Match Outcome Prediction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Taking a step further with League of Legends, I first generate a SQLite Database file using [Riot Game's API](https://developer.riotgames.com/) which involves generating various lists of python code. Then, another database is created by scraping the website of [Counterstats.net](https://www.counterstats.net/) to score each champion's best counter and worst counter based on lane matchups. 
+
+
+Finally, all the data is cleaned and a model is made to attempt to predict the outcome of a match based off of a match's champion selection. 
 
 ```markdown
 Syntax highlighted code block
