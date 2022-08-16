@@ -1,10 +1,8 @@
 ## Midterm Project: League of Legends Diamond Ranked Trend
 
-[![](https://img.shields.io/badge/Jupyter-Open_Notebook-EE4C2C?logo=Jupyter)](conrad-cruz.github.io/projects/Midterm-Project.html) [![](https://img.shields.io/badge/Adobe_Reader-Download_PDF-EE4C2C?logo=Adobe_Reader)](conrad-cruz.github.io/projects/Midterm-Assignment.pdf)
+[![](https://img.shields.io/badge/Jupyter-Open_Notebook-EE4C2C?logo=Jupyter)](conrad-cruz.github.io/projects/Midterm-Project.html) [![](https://img.shields.io/badge/Adobe_Reader-View_PDF-EE4C2C?logo=Adobe_Reader)](conrad-cruz.github.io/projects/Midterm-Assignment.pdf) [![](https://img.shields.io/badge/Microsoft_Excel-View_csv-EE4C2C?logo=Microsoft_Excel)](conrad-cruz.github.io/projects/high_diamond_ranked_10min.csv)
 
-You can use the [editor on GitHub](https://github.com/conrad-cruz/conrad-cruz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Midterm School Project that analyzes trends of diamond ranked players in League of Legends. It explores statistical analysis with confidence intervals and data visualizations. Data was downloaded from Kaggle. 
 
 ### Markdown
 
