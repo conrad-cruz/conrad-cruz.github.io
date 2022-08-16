@@ -1,4 +1,6 @@
-## Midterm Project: League of Legends Diamond Ranked Trend
+## Portfolio
+
+### Midterm Project: League of Legends Diamond Ranked Trend
 
 [![](https://img.shields.io/badge/Jupyter-Open_Notebook-EE4C2C?logo=Jupyter)](projects/Midterm-Project.html)
 [![](https://img.shields.io/badge/Data_Report-View_PDF-EE4C2C?logo=Reader)](projects/Midterm-Assignment.pdf) 
