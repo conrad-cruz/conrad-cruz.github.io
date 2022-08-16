@@ -1,6 +1,6 @@
 ## Midterm Project: League of Legends Diamond Ranked Trend
 
-[![](https://img.shields.io/badge/Jupyter-Open_Notebook-EE4C2C?logo=Jupyter)](conrad-cruz.github.io/projects/Midterm-Project.html) [![](https://img.shields.io/badge/Adobe_Reader-View_PDF-EE4C2C?logo=Reader)](conrad-cruz.github.io/projects/Midterm-Assignment.pdf) [![](https://img.shields.io/badge/CSV-View_csv-1ED760?logo=Excel)](conrad-cruz.github.io/projects/high_diamond_ranked_10min.csv)
+[![](https://img.shields.io/badge/Jupyter-Open_Notebook-EE4C2C?logo=Jupyter)](conrad-cruz.github.io/projects/Midterm-Project.html) [![](https://img.shields.io/badge/Adobe_Reader-View_PDF-EE4C2C?logo=Reader)](conrad-cruz.github.io/projects/Midterm-Assignment.pdf) [![](https://img.shields.io/badge/Raw Data-View_csv-1ED760?logo=Excel)](conrad-cruz.github.io/projects/high_diamond_ranked_10min.csv)
 
 Midterm School Project that analyzes trends of diamond ranked players in League of Legends. It explores statistical analysis with confidence intervals and data visualizations. Data was downloaded from Kaggle. 
 
