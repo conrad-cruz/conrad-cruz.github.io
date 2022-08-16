@@ -1,6 +1,6 @@
 ## Midterm Project: League of Legends Diamond Ranked Trend
 
-[![](https://img.shields.io/badge/Jupyter-Open_Notebook-EE4C2C?logo=Jupyter)](Midterm-Project.html)
+[![](https://img.shields.io/badge/Jupyter-Open_Notebook-EE4C2C?logo=Jupyter)](Midterm-Project.html) [![](https://img.shields.io/badge/Adobe_Reader-Download_PDF-EE4C2C?logo=Adobe_Reader)](Midterm-Assignment.pdf)
 
 You can use the [editor on GitHub](https://github.com/conrad-cruz/conrad-cruz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
