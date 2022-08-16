@@ -13,7 +13,7 @@ Midterm School Project that analyzes trends of diamond ranked players in League 
 [![](https://img.shields.io/badge/Python-List_GenPart2-EE4C2C?logo=Python)](projects/lolproject/riotlistprt2.py)
 [![](https://img.shields.io/badge/Python-List_GenPart3-EE4C2C?logo=Python)](projects/lolproject/riotlistprt3.py)
 [![](https://img.shields.io/badge/Python-List_GenPart4-EE4C2C?logo=Python)](projects/lolproject/lolmatchdata.py)
-[![](https://img.shields.io/badge/SQLite-Open_SQL-EE4C2C?logo=SQL)](projects/lolproject/LOL_Match_Champion_Database.sqlite3)
+[![](https://img.shields.io/badge/SQLite-Open_SQL-blue?logo=SQL)](projects/lolproject/LOL_Match_Champion_Database.sqlite3)
 
 Taking a step further with League of Legends, I first generate a SQLite Database file using [Riot Game's API](https://developer.riotgames.com/) which involves generating various lists of python code. 
 
