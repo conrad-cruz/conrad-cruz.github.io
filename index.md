@@ -18,7 +18,7 @@ Midterm School Project that analyzes trends of diamond ranked players in League 
 Taking a step further with League of Legends, I first generate a SQLite Database file using [Riot Game's API](https://developer.riotgames.com/) which involves generating various lists of python code. 
 
 [![](https://img.shields.io/badge/Python-Web_Scraper-EE4C2C?logo=Python)](projects/lolproject/champcounterscrape.py)
-[![](https://img.shields.io/badge/SQLite-Open_SQL-EE4C2C?logo=SQL)](projects/lolproject/Champ_Counter.sqlite3)
+[![](https://img.shields.io/badge/SQLite-Open_SQL-blue?logo=SQL)](projects/lolproject/Champ_Counter.sqlite3)
 
 Then, another database is created by scraping the website of [Counterstats.net](https://www.counterstats.net/) to score each champion's best counter and worst counter based on lane matchups. 
 
