@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Midterm Project: League of Legends Diamond Ranked Trend
+https://img.shields.io/badge/Jupyter-Open_Notebook-EE4C2C?logo=Jupyter
+[![](https://img.shields.io/badge/Jupyter-Open_Notebook-EE4C2C?logo=Jupyter)](Midterm-Project.html)
 
 You can use the [editor on GitHub](https://github.com/conrad-cruz/conrad-cruz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
