@@ -1,4 +1,5 @@
 ## Portfolio
+***
 ### Midterm Project: League of Legends Diamond Ranked Trend
 
 [![](https://img.shields.io/badge/Jupyter-Open_Notebook-EE4C2C?logo=Jupyter)](projects/Midterm-Project.html)
@@ -27,4 +28,4 @@ Then, another database is created by scraping the website of [Counterstats.net](
 [![](https://img.shields.io/badge/Jupyter-Open_Notebook-EE4C2C?logo=Jupyter)](projects/Riot_Champion_Match_Analysis.html)
 
 Finally, all the data is cleaned and a model is made to attempt to predict the outcome of a match based off of a match's champion selection using various machine learning tools. Ultimately the model was unable to be improved past 50% prediction accuracy. However, this could be a sign into how balanced the game could be at the moment; if a match could be predicted reliably based on champions picked alone, it may not be a sign of a balanced game! 
-
+***
