@@ -14,7 +14,7 @@ Midterm School Project that analyzes trends of diamond ranked players in League 
 
 ### League of Legends Champion Match Outcome Prediction
 
-[![](https://img.shields.io/badge/Python-Download_List_GenPart-EE4C2C?logo=Python)](projects/lolproject/LoL Project Python Scripts.rar)
+[![](https://img.shields.io/badge/Python-Download_PythonScript.rar-EE4C2C?logo=Python)](projects/lolproject/LoL_Project_Python_Scripts.rar)
 [![](https://img.shields.io/badge/SQLite-Download_SQL-blue?logo=SQL)](projects/lolproject/LOL_Match_Champion_Database.sqlite3)
 
 Taking a step further with League of Legends, I first generate a SQLite Database file using [Riot Game's API](https://developer.riotgames.com/) which involves generating various lists of python code. 
